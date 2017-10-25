@@ -1,0 +1,173 @@
+body{
+  width: 800px;
+  height: 1070px;
+  margin: 0 auto;
+  border-style:double;
+  border-color: #2dacf4;
+
+  background-clip: content-box;
+}
+.container{
+  text-align:center;
+}
+header{
+  height: 219px;
+  width: 800px;
+  /*background:#2dacf4;
+  background: #1e75ec;
+  color:#e6f591;*/
+    background:#448ff6;
+  stroke:#000;
+    /*background-image:url("witney.png");*/
+padding: 20px 0 0px 0px;
+}
+img{
+  padding: 10px;
+  padding-left:8px;
+  float: left;
+  margin:10px auto;
+
+}
+#taste{
+color: #500;
+font-size: 30px;
+font-style: italic;
+/*font-family: kunstler script;*/
+font-family: georgia;
+padding: 0px 5px 10px 0px;
+  margin: 20px 80px 0px 80px;
+}
+#black{
+  font-family:times new roman;
+  font-weight: bold;
+  font-size: 70px;
+  padding: 2px 30px 2px 50px;
+  margin: 2px 80px 0px 80px;
+  color:#500;
+}
+nav{
+  margin:80px;
+  padding: 20px;
+  display:flex;
+
+}
+h2{
+  color:#0a92e1;
+  padding: 0 5px 0 10px;
+  margin:0 auto;
+  font-size: 30px;
+}
+img{
+  float:left;
+  padding: 10 px;
+  margin:10px auto;
+}
+form{
+  float: right;
+}
+p{
+  padding-left: 20px;
+  float:left;
+  font-size: 25px;
+  font-family: georgia;
+ color:#0d94e1;
+
+}
+#container{
+  width:800px;
+/*  height:586px;*/
+  height:583px;
+  background: #fff;
+  padding-top: 20px;
+}
+ul{
+  float: right;
+color:#0d94e1;
+
+list-style: none;
+font-size: 23px;
+margin: 70px auto;
+padding: 10px;
+}
+footer{
+  /*background:#0d94e1;
+    background: #1e75ec;*/
+background: #448ff6;
+  width:800px;
+  height: 197px;
+  margin:10px auto;
+    padding:10px 0;
+}
+#navlist li
+{
+display: inline;
+}
+
+#navlist #left
+{
+float: right;
+margin-right: 50px;
+padding: 20px;
+}
+
+#navlist li a
+{
+text-decoration: none;
+}
+ #navlist{
+  color:#ffffff;
+font-style: italic;
+  float: left;
+margin:0 auto;
+  padding:10px 50px 0px 200px;
+
+}
+#para1{
+    float: left;
+color:#000;
+margin:0px 10px 0px 10px;
+  padding:0px 300px 0px 0px;
+font-weight: bold;
+font-size: 20px;
+}
+#contact{
+  margin:0px 10px 0px 10px;
+  padding:0px 300px 0px 0px;
+}
+.text-center{
+  text-align: center;
+  color:#000;
+  font-size: 15px;
+  padding: 2px 200px 5px 200px;
+  font-style: italic;
+  font-weight: bold;
+}
+#credit{
+  font-style: italic;
+  float: right;
+  font-size: 15px;
+  font-weight: bold;
+  color:#000;
+    padding: 0px 0px 10px 0px;
+      margin:0px 5px 20px 90px;
+}
+input{
+  border: 0.5px solid #000;
+  margin:0px auto;
+}
+a{
+padding: 10px;
+margin: 10px 10px 5px 10px;
+  color:#fff;
+font-style: italic;
+text-decoration: none;
+font-size: 22px;
+align-items: center;
+
+}
+div .green a{
+  background-color: #f00;
+  padding: 3px 5px 3px 5px;
+    margin: 5px 10px 5px 10px;
+  border-style: none;
+}

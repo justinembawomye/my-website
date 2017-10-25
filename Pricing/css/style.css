@@ -1,0 +1,124 @@
+/*body{
+  width:1000px;
+  height: 1000px;
+  margin: 5px auto;
+
+}
+h1{
+  font-size: 60px;
+  color: #f00;
+  text-align: center;
+  font-weight: bold;
+    background:#2dacf4;
+padding: 10px 5px 50px 5px;
+margin: 0px 5px 10px 5px;
+}*/
+body{
+  /*width:800px;
+  height: 1000px;*/
+  margin: 0 auto;
+  background-color:#ffa3a1;
+}
+h1 {
+  font-size: 40px;
+  color: #ffa3a1;
+  text-align: center;
+  font-weight: bold;
+background: #4f0c03;
+padding: 10px 5px 50px 5px;
+margin: 0px 5px 10px 5px;
+}
+a{
+  color:#ffa3a1;
+  text-decoration: none;
+  margin: 10px 20px 0px 20px;
+  padding: 10px 10px 20px 20px;
+  text-align: center;
+  font-size: 20px;
+}
+
+p::first-letter{
+  font-size: 150%;
+}
+p{
+  font-size: 20px;
+  /*color:#e6f591;*/
+  padding:10px;
+color:#4f0c03;
+}
+#table{
+  padding: 10px 100px 20px 30px;
+}
+table,th,td {
+  border:1px solid #4f0c03;
+  width: 50%;
+  border-collapse: collapse;
+  height: 30px;
+  text-align: left;
+color:#4f0c03;
+font-size: 20px;
+
+}
+caption{
+color:#4f0c03;
+  font-size: 22px;
+}
+tr:hover {background-color: #077817;}
+th {
+    /*background-color:#4f0c03;*/
+    background-color:#fff;
+    /*color:#ffa3a1;*/
+    font-size: 25px;
+    color: #4f0c03;
+}
+img{
+  float: left;
+}
+footer{
+  background: #4f0c03;
+  width:2000px;
+  height: 197px;
+  margin:10px auto;
+    padding:10px 0;
+}
+/*.text-center{
+   color:#ffa3a1;
+    font-weight: normal;
+    padding: 2px 10px 0px 100px;
+        margin: 2px 50px 20px 40px;
+        font-size: 15px;
+          text-align: center;
+  }*/
+  .text-center{
+     color:#ffa3a1;
+      font-weight: normal;
+      padding: 30px 600px 30px 50px;
+          margin: 30px 100px 20px 20px;
+          font-size: 15px;
+            text-align: center;
+    }
+  /*#para1{
+      float: left;
+  color:#ffa3a1;
+  margin:0px 10px 0px 10px;
+    padding:0px 300px 0px 0px;
+  font-weight: bold;
+  font-size: 20px;
+  }*/
+
+  #para5{
+      float: left;
+  color:#ffa3a1;
+  margin:0px 10px 0px 10px;
+    padding:10px 10px 0px 0px;
+  font-weight: bold;
+  font-size: 20px;
+  }
+  span:hover{background-color: #000;}
+  span{
+    color: #10f1f4;
+  }
+  #contact{
+    margin:10px 800px 10px 0px;
+    padding:10px 800px 0px 20px;
+  }
